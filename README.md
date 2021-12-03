@@ -1,5 +1,5 @@
 
-This is a repo showing my AOC progress as it goes, using Haskell for programming, nix for pakcages and velle for quality of life.
+This is a repo showing my AOC progress as it goes, using Haskell for programming, nix for packages and velle for quality of life.
 
 ```
 ~/Maxime/CodingStuff/Haskell/adventofcode-2021 main* ⇡ ❯ velle run makenew            17:34:04
