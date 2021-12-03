@@ -15,7 +15,7 @@ const contents = readFile(filename)
 writeToFile(filename, contents);
 
 exec("git add " + oldfile);
-exec("git stage .");
+exec("git stage " + oldfile);
 exec("git commit -m \"day " + current.day + "\"");
 
 writeJSON(".velle/progress.json", {
